@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const HeaderSection = styled.header`
     width: 400px;
     height: 130px;
-    background: rgba(255,255,255, .2);
+    background: #F0F0F0;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,7 @@ export const HeaderSection = styled.header`
 export const HeaderTitle = styled.h1`
     margin: 0;
     padding: 15px 0;
-    color: #E5E5E5;
+    color: #A01220;
     font-size: 30px;
     font-weight: 700;
     text-align: center;
@@ -33,7 +33,7 @@ export const HeaderInput = styled.input`
     border-radius: 15px;
     border: none;
     padding: 0 16px;
-    color: #444;
+    color: #000;
     transition: .4s ease;
 
     &:focus {
@@ -48,7 +48,7 @@ export const HeaderSearchButton = styled.button`
     height: 30px;
     border-radius: 15px;
     border: none;
-    background: #FF7A00;
+    background: #A01220;
     margin-left: 10px;
     display: flex;
     align-items: center;

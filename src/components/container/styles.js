@@ -14,9 +14,9 @@ export const Container = styled.main`
         font: bold 14px;
         text-decoration: none;
         font-weight: 700;
-        background-color: #FF7A00;
+        background-color: #1c4b77 ;
         color: #333333;
         padding: 2px 6px 2px 6px;
-        border-bottom: 1px solid #333333;
+        border-bottom: 1px solid #1c4b77;
     }
 `

@@ -5,7 +5,7 @@ export const Section = styled.section`
     height: 400px;
     background: #fff;
     border-radius: 10px;
-    border-bottom: 10px solid #ff7a00;
+    border-bottom: 10px solid #1c4b77;
     margin-top: 15px
 
     @media (max-width: 430px) {
@@ -57,7 +57,7 @@ export const Repo = styled.h2`
     p {
         font-size: 12px;
         font-weight: 700;
-        color: #ff7a00;
+        color: #A01220;
         width: 100%;
         height: 30px;
         overflow: hidden;
